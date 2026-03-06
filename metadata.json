@@ -1,0 +1,5 @@
+{
+  "name": "Texas Taste",
+  "description": "Authentic American Flavors in the Heart of Texas. Modern dark-themed restaurant website with premium BBQ and steaks.",
+  "requestFramePermissions": ["geolocation"]
+}
